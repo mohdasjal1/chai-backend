@@ -31,7 +31,7 @@ A scalable and modular backend for a YouTube-like video-sharing platform, built 
 - **CI/CD:** Automated build and deployment pipeline using GitHub Actions for continuous delivery.
 - **Deployment:**
   - **Backend:** Hosted on Render (supports both Docker image-based deploys and direct GitHub integration)
-  - **Frontend:** [Veedle](https://your-frontend-link.com)
+  - **Frontend:** [Veedle](https://veedle.vercel.com)
 
 ---
 
